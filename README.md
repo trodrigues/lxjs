@@ -24,3 +24,5 @@ To edit the layout: edit the file theme/article.html.
 If you edit any of these you will need to restart the server.
 
 CSS: theme/css/lxjs.css
+
+testing the hook
